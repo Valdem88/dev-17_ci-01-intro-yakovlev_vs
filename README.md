@@ -45,8 +45,8 @@ ci-01-intro
 
 
 ---
-  - [Bug workflow.xml](https://github.com/Valdem88/dev-17_ansible-04-role-yakovlev_vs/blob/main/site.yml)
-  - [All_tasks_workflow.xml](https://github.com/Valdem88/vector-role.git)
+  - [Bug workflow.xml](https://github.com/Valdem88/dev-17_ci-01-intro-yakovlev_vs/blob/main/workflow/Bug%20workflow.xml)
+  - [All_tasks_workflow.xml](https://github.com/Valdem88/dev-17_ci-01-intro-yakovlev_vs/blob/main/workflow/All_tasks_workflow.xml)
 
 ---
 
